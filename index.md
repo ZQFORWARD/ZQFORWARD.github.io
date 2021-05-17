@@ -31,8 +31,8 @@ Male
 Ma'anshan Anhui Province, China 
 2018-2021
 
-### Visiting student
-清华大学 / Tsinghua University 
+### Exchange Experience
+清华大学 / Tsinghua University, Visiting Student
 2019-2021
 
 ### Email
