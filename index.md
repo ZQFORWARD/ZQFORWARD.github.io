@@ -5,6 +5,7 @@
 ### 姓名 / Name
 周泉 / Quan Zhou
 
+
 ### Age
 26 year-old
 
@@ -12,12 +13,12 @@
 Male
 
 ### Education
-安徽工业大学 / Anhui University of Technology
-Ma'anshan Anhui Province, China
+安徽工业大学 / Anhui University of Technology 
+Ma'anshan Anhui Province, China 
 2018-2021
 
 ### Visiting student
-清华大学 / Tsinghua University
+清华大学 / Tsinghua University 
 2019-2021
 
 ### Email
