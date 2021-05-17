@@ -42,7 +42,7 @@ Ma'anshan Anhui Province, China
 Anhui Ronds Science & Technology Incorporated Company - Algorithm Engineer
 
 ### Research Interest
-Artificial Intelligence, Neural Network， Deep Learning， HMI
+Artificial Intelligence, Neural Network, Deep Learning， HMI
 
 ### Programing Language
 Python, C++
