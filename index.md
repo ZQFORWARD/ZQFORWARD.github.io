@@ -44,6 +44,15 @@ Anhui Ronds Science & Technology Incorporated Company - Algorithm Engineer
 ### Research Interest
 Artificial Intelligence, Neural Network， Deep Learning， HMI
 
+### Programing Language
+Python, C++
+
+### Language
+Chinese， English
+
+### English level
+CET-6
+
 ### Published Paper
 1. Gait Neural Network for Human-Exoskeleton Interaction. <https://www.frontiersin.org/articles/10.3389/fnbot.2020.00058/full>
 2. Personal‐specific gait recognition based on latent orthogonal feature space. <https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ccs2.12007>
