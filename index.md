@@ -4,7 +4,7 @@
   <tr>
     <td width="75%">
       <h1>周泉</h1>
-      <p><b>硕士研究生</b></p>
+      <p><b>硕士研究生，IEEE Student Member</b></p>
     </td>
     <td width="25%">
       <img src="/zq.jpg" width="100%">
