@@ -19,7 +19,6 @@
 ### 姓名 / Name
 周泉 / Quan Zhou
 
-
 ### Age
 26 year-old
 
@@ -47,6 +46,9 @@ Artificial Intelligence, Neural Network, Deep Learning， HMI
 ### Programing Language
 Python, C++
 
+### Deep Learning Skills
+PyTorch, Sklearn, Matplotlib, Numpy, Seaborn, Pandas
+
 ### Language
 Chinese， English
 
@@ -59,6 +61,9 @@ CET-6
 3. Cough Recognition Based on Mel-Spectrogram and Convolutional Neural Network. <https://www.frontiersin.org/articles/10.3389/frobt.2021.580080/full>
 4. A Survey of the Development of Wearable Devices.
 5. A Novel Pose Estimation Method of Object in Robotic Manipulation Using Vision-Based Tactile Sensor.
+
+### Participate in publishing books
+1. Wearable Technology for Robotic Manipulation and Learning, Springer
 
 ### ResearchGate HomePage
 Quan Zhou <https://www.researchgate.net/profile/Quan-Zhou-50>
