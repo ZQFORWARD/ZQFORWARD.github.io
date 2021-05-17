@@ -30,7 +30,7 @@ Ma'anshan Anhui Province, China
 Anhui Ronds Science & Technology Incorporated Company - Algorithm Engineer
 
 ### Research Interest
-Artificial Intelligence, Neural Network， Deep Learning， Time-series Sequence
+Artificial Intelligence, Neural Network， Deep Learning， HMI
 
 ### Published Paper
 1. Gait Neural Network for Human-Exoskeleton Interaction. https://www.frontiersin.org/articles/10.3389/fnbot.2020.00058/full
