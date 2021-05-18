@@ -5,6 +5,7 @@
     <td width="65%">
       <h1>周泉</h1>
       <p><b>硕士研究生，IEEE Student Member</b></p>
+      <p>© 2021 ZQFORWARD</p>
     </td>
     <td width="35%">
       <img src="/zq.jpg" width="100%">
