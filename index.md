@@ -70,7 +70,7 @@ CET-6
 3. Cough Recognition Based on Mel-Spectrogram and Convolutional Neural Network. <https://www.frontiersin.org/articles/10.3389/frobt.2021.580080/full>
 4. A Survey of the Development of Wearable Devices. <https://ieeexplore.ieee.org/document/9195351>
 5. A Novel Pose Estimation Method of Object in Robotic Manipulation Using Vision-Based Tactile Sensor. <https://link.springer.com/chapter/10.1007%2F978-981-16-2336-3_24> 
-,.
+
 ### Participate in publishing books
 1. Wearable Technology for Robotic Manipulation and Learning, Springer. <https://link.springer.com/book/10.1007%2F978-981-15-5124-6>
 
