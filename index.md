@@ -7,6 +7,7 @@
       <p><b>硕士研究生，IEEE Student Member</b></p>
       <h2>社交账号</h2>
       <a href="https://www.linkedin.com/in/%E6%B3%89-%E5%91%A8-5b237ab1">LinkedIn</a>
+      <a href="https://www.researchgate.net/profile/Quan-Zhou-50">ResearchGate</a>
       <p>© 2021 ZQFORWARD</p>
     </td>
     <td width="40%">
