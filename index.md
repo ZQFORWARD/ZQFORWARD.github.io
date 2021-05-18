@@ -5,6 +5,9 @@
     <td width="65%">
       <h1>周泉</h1>
       <p><b>硕士研究生，IEEE Student Member</b></p>
+      <h2>社交账号</h2>
+      <p>LinkedIn: https://www.linkedin.com/in/%E6%B3%89-%E5%91%A8-5b237ab1</p>
+      <p>Weibo: https://m.weibo.cn/u/5268663961?from=10B5195010&wm=9006_2001&sourceType=weixin&uid=5268663961</p>
       <p>© 2021 ZQFORWARD</p>
     </td>
     <td width="35%">
@@ -12,6 +15,7 @@
     </td>
   </tr>
 </table>
+
 
 👋 Hi! I'm ZQ, an M.S. student at the Anhui University of Technology.
 My current work focuses on AI, and Deep Learning.
