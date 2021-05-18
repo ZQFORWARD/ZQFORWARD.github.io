@@ -19,7 +19,7 @@
 
 👋 Hi! I'm ZQ, an M.S. student at the Anhui University of Technology.
 My current work focuses on AI, and Deep Learning.
-I hope I can make progress with you and enjoy the learning process..
+I hope I can make progress with you and enjoy coding.
 ✨
 ☕ Wanna chat? 👉 @ me on Weibo or 👉 LinkedIn. :smile:
 
