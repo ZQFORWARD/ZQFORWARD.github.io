@@ -21,7 +21,7 @@
 My current work focuses on AI, and Deep Learning.
 I hope I can make progress with you and enjoy the learning process..
 ✨
-☕ Wanna chat? 👉 @ me on Weibo or 👉 LinkedIn.
+☕ Wanna chat? 👉 @ me on Weibo or 👉 LinkedIn. :smile:
 
 # 个人信息 / Personal Information
 
@@ -72,7 +72,7 @@ CET-6
 5. A Novel Pose Estimation Method of Object in Robotic Manipulation Using Vision-Based Tactile Sensor. <https://link.springer.com/chapter/10.1007%2F978-981-16-2336-3_24> 
 ,.
 ### Participate in publishing books
-1. Wearable Technology for Robotic Manipulation and Learning, Springer
+1. Wearable Technology for Robotic Manipulation and Learning, Springer. <https://link.springer.com/book/10.1007%2F978-981-15-5124-6>
 
 ### ResearchGate HomePage
 Quan Zhou <https://www.researchgate.net/profile/Quan-Zhou-50>
