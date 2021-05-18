@@ -2,14 +2,14 @@
 
 <table border="0">
   <tr>
-    <td width="65%">
+    <td width="60%">
       <h1>周泉</h1>
       <p><b>硕士研究生，IEEE Student Member</b></p>
       <h2>社交账号</h2>
       <a href="https://www.linkedin.com/in/%E6%B3%89-%E5%91%A8-5b237ab1">LinkedIn</a>
       <p>© 2021 ZQFORWARD</p>
     </td>
-    <td width="35%">
+    <td width="40%">
       <img src="/zq.jpg" width="100%">
     </td>
   </tr>
