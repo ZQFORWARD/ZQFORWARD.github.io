@@ -2,11 +2,11 @@
 
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="65%">
       <h1>周泉</h1>
       <p><b>硕士研究生，IEEE Student Member</b></p>
     </td>
-    <td width="25%">
+    <td width="35%">
       <img src="/zq.jpg" width="100%">
     </td>
   </tr>
@@ -31,7 +31,7 @@ Ma'anshan Anhui Province, China
 2018-2021
 
 ### Exchange Experience
-清华大学 / Tsinghua University, Visiting Student
+清华大学 / Tsinghua University, Visiting Student 
 2019-2021
 
 ### Email
@@ -41,7 +41,7 @@ Ma'anshan Anhui Province, China
 Anhui Ronds Science & Technology Incorporated Company - Algorithm Engineer
 
 ### Research Interest
-Artificial Intelligence, Neural Network, Deep Learning， HMI
+Artificial Intelligence, Neural Network, Deep Learning
 
 ### Programing Language
 Python, C++
@@ -50,7 +50,7 @@ Python, C++
 PyTorch, Sklearn, Matplotlib, Numpy, Seaborn, Pandas
 
 ### Language
-Chinese， English
+Chinese, English
 
 ### English level
 CET-6
