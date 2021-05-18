@@ -12,7 +12,10 @@
   </tr>
 </table>
 
-
+👋 Hi! I'm ZQ, an M.S. student at the Anhui University of Technology.
+My current work focuses on AI, and Deep Learning.
+I hope I can make progress with you and enjoy the learning process..
+✨
 
 # 个人信息 / Personal Information
 
