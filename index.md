@@ -20,7 +20,7 @@
 My current work focuses on AI, and Deep Learning.
 I hope I can make progress with you and enjoy the learning process..
 ✨
-☕ Wanna chat? 👉 @ me on Weibo or 👉 Wechat.
+☕ Wanna chat? 👉 @ me on Weibo or 👉 LinkedIn.
 
 # 个人信息 / Personal Information
 
