@@ -53,7 +53,7 @@ Anhui Ronds Science & Technology Incorporated Company - Algorithm Engineer
 Artificial Intelligence, Neural Network, Deep Learning
 
 ### Programing Language
-Python, C++
+Python
 
 ### Deep Learning Skills
 PyTorch, Sklearn, Matplotlib, Numpy, Seaborn, Pandas
