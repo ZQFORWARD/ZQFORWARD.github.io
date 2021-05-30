@@ -46,8 +46,8 @@ Ma'anshan Anhui Province, China
 ### Email
 825197279@qq.com / Zhou_Quan_DL@163.com
 
-### Working on
-Anhui Ronds Science & Technology Incorporated Company - Algorithm Engineer
+### Work Experience
+Anhui Ronds Science & Technology Incorporated Company - Algorithm Engineer 2021-Now
 
 ### Research Interest
 Artificial Intelligence, Neural Network, Deep Learning
