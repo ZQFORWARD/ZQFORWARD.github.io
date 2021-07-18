@@ -23,9 +23,9 @@ I hope I can make progress with you and enjoy coding.
 ✨
 ☕ Wanna chat? 👉 @ me on Weibo or 👉 LinkedIn. :smile:
 
-# 个人信息 / Personal Information
+# Personal Information
 
-### 姓名 / Name
+### Name
 周泉 / Quan Zhou
 
 ### Age
@@ -56,7 +56,7 @@ Artificial Intelligence, Neural Network, Deep Learning
 Python
 
 ### Deep Learning Skills
-PyTorch, Sklearn, Matplotlib, Numpy, Seaborn, Pandas
+PyTorch, Sklearn, Matplotlib, Numpy, Seaborn, Pandas, Scipy
 
 ### Language
 Chinese, English
@@ -71,6 +71,7 @@ CET-6
 4. A Survey of the Development of Wearable Devices. <https://ieeexplore.ieee.org/document/9195351>
 5. A Novel Pose Estimation Method of Object in Robotic Manipulation Using Vision-Based Tactile Sensor. <https://link.springer.com/chapter/10.1007%2F978-981-16-2336-3_24> 
 6. Cross-Individual Gesture Recognition Based on Long Short-Term Memory Networks. <https://www.hindawi.com/journals/sp/2021/6680417/>
+7. A novel accurate positioning method for object pose estimation in robotic manipulation based on vision and tactile sensors. <https://www.researchgate.net/journal/The-International-Journal-of-Advanced-Manufacturing-Technology-1433-3015> 
 
 ### Participate in Publishing Books
 1. Wearable Technology for Robotic Manipulation and Learning, Springer. <https://link.springer.com/book/10.1007%2F978-981-15-5124-6>
